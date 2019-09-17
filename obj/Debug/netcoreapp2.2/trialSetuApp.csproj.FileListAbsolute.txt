@@ -1,0 +1,14 @@
+/Users/ranjith/code/dotnet-trial/trialSetuApp/bin/Debug/netcoreapp2.2/trialSetuApp.deps.json
+/Users/ranjith/code/dotnet-trial/trialSetuApp/bin/Debug/netcoreapp2.2/trialSetuApp.runtimeconfig.json
+/Users/ranjith/code/dotnet-trial/trialSetuApp/bin/Debug/netcoreapp2.2/trialSetuApp.runtimeconfig.dev.json
+/Users/ranjith/code/dotnet-trial/trialSetuApp/bin/Debug/netcoreapp2.2/trialSetuApp.dll
+/Users/ranjith/code/dotnet-trial/trialSetuApp/bin/Debug/netcoreapp2.2/trialSetuApp.pdb
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.csprojAssemblyReference.cache
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.csproj.CoreCompileInputs.cache
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.RazorAssemblyInfo.cache
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.RazorAssemblyInfo.cs
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.AssemblyInfoInputs.cache
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.AssemblyInfo.cs
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.RazorTargetAssemblyInfo.cache
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.dll
+/Users/ranjith/code/dotnet-trial/trialSetuApp/obj/Debug/netcoreapp2.2/trialSetuApp.pdb
